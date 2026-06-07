@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Predicting Apple's weekly stock price using technical indicators and forex macroeconomic data with machine learning
 
 This end-to-end data science project predicts Apple Inc. (AAPL) stock closing price 
@@ -182,15 +182,3 @@ Apple earns revenue in dozens of currencies globally. When a stronger dollar red
 - **python-dotenv** — secure API key management
 
 ---
-
-## 👩‍💻 Author
-
-**Aditi Rupvate**
-[GitHub](https://github.com/aditi-rupvate) 
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — free to use and modify with attribution.
->>>>>>> b104560 (Add professional README)
